@@ -6,7 +6,7 @@ The specification for this program is as follows,
 
 You are asked to build the same project we worked on in the level and add two new features to it.
 
-1) A new route to mark tasks as completed. ` GET /complete_task/<Task Index> `
+1) A new route to mark tasks as completed. ` GET /complete_task/<Task Id> `
 2) A new route to view completed tasks. ` GET /completed_tasks `
 
 Completed tasks should no longer be visible in the existing tasks view.
